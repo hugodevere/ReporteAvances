@@ -34,4 +34,4 @@
 - ¿Qué datos se generan y registran durante este proceso?
 
 # Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea. 
-## yo sere quien llene esto ...(esto se removera al finalizar el llenado, apliquen el mismo formato que en las anteriores)
+[Contestar aquí]
