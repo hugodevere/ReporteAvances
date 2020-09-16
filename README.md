@@ -4,9 +4,9 @@
 
 ## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/tesla-logo-text-png-7_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para tesla)
--¿Qué empresa es? ¿En qué sector se encuentra?
--¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
--¿Qué problemática o necesidad resuelve?
+- ¿Qué empresa es? ¿En qué sector se encuentra?
+- ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
+- ¿Qué problemática o necesidad resuelve?
 
 ## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/att-logo1_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para AT&T)
