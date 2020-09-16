@@ -1,7 +1,4 @@
-# ReporteAvances# OJO! En todas las empresas deberán poner un texto estructurado que conteste a todas las preguntas
-# no hacer uso del formato pregunta-respuesta (ustedes solo peguen su información como la hayan redactado)
-# y para indicar donde debe haber un salto de parrafo haganlo agregando un '(/n)' yo sabre que significa 
-# y le dare la forma una vez que lo terminenen
+# ReporteAvances# OJO! En todas las empresas deberán poner un texto estructurado que conteste a todas las preguntas, no hacer uso del formato pregunta-respuesta (ustedes solo peguen su información como la hayan redactado) y para indicar donde debe haber un salto de parrafo haganlo agregando un '(/n)' yo sabre que significa y le dare la forma una vez que lo terminenen
 
 ## Todas las empresas identificadas individualmente con modelos probados de tecnología IoT. (esto se removera al termianar el llenado)
 
