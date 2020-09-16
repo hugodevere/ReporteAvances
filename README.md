@@ -2,26 +2,26 @@
 
 # Todas las empresas identificadas individualmente con modelos probados de tecnología IoT. (esto se removera al termianar el llenado)
 
-## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/tesla-logo-text-png-7_opt.png)
+## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/tesla-logo-text-png-7_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para tesla)
 - ¿Qué empresa es? ¿En qué sector se encuentra?
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 - ¿Qué problemática o necesidad resuelve?
 
-## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/att-logo1_opt.png)
+## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/att-logo1_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para AT&T)
 - ¿Qué empresa es? ¿En qué sector se encuentra?
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 - ¿Qué problemática o necesidad resuelve?
 
-## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/1280px-Oracle_logo_opt.png)
+## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/1280px-Oracle_logo_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para Oracle)
 - ¿Qué empresa es? ¿En qué sector se encuentra?
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 - ¿Qué problemática o necesidad resuelve?
 
-## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/qualcomlogo.png)
-(Aqui debemos poner el texto que conteste estas preguntas para Qualcom)
+## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/qualcomlogo.png)
+(Aqui debemos poner el texto que conteste estas preguntas para Qualcomm)
 - ¿Qué empresa es? ¿En qué sector se encuentra?
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 - ¿Qué problemática o necesidad resuelve?
